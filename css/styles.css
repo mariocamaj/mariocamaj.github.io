@@ -98,10 +98,11 @@ img.grayscale {
   background: #11cc45 url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
 }
 
-.blurb {
+.summary {
   padding: 120px 0;
   background-color:#fefefe;
 }
+
 
 .blurb .panel {
   background-color:transparent;
@@ -117,6 +118,13 @@ img.grayscale {
   padding: 50px 0;
   color: #ffffff;
 }
+
+.experience {
+  background: #209AD6;
+  padding: 50px 0;
+  color: #E8E3E3;
+}
+
 
 .featurette-item {
   margin-bottom: 15px;
@@ -151,7 +159,9 @@ img.grayscale {
 }
 
 .gallery {
+  background: #FAC21B;
   padding: 50px 0;
+  color: #FFFFFF;
 }
 
 .call-to-action {
